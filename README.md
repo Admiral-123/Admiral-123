@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Admiral-123
+- 👋 Hi, I’m @Admiral-123  (kartikey)
 - 👀 I’m interested in many things
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web dev, web3
