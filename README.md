@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Admiral-123  (kartikey)
 - 👀 I’m interested in many things
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning dart/flutter
 - 💞️ I’m looking to collaborate on web dev, web3
 - 📫 How to reach me - text me on tg @sastakarlmarx
 
